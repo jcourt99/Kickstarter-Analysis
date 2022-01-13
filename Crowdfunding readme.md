@@ -11,7 +11,7 @@ The purpose of this project is to analyze data from several Kickstarter campaign
 There were a total of 1369 theater kickstarter campaigns represented in the dataset. The outcomes of the campaigns were classified as successful, failed, or canceled. By sorting the outcomes by month, the line chart clearly shows the launch months that had successful campaigns. ![This is the line chart](https://github.com/jcourt99/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-This analysis looked at 1047 theatrical plays in the kickstarter campaign dataset. The analysis compares the dollar amounts of the goals set for each campaign and the success rate of those campaigns. The line chart shows the correlation between the goal amount and the campaign's successfullness. [This is the line chart](https://github.com/jcourt99/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+This analysis looked at 1047 theatrical plays in the kickstarter campaign dataset. The analysis compares the dollar amounts of the goals set for each campaign and the success rate of those campaigns. The line chart shows the correlation between the goal amount and the campaign's successfullness. ![This is the line chart](https://github.com/jcourt99/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I did not face any challenges with this project. However, it was time-consuming to change the dollar amounts for each COUNTIF cell of the "Outcomes Based On Goals" worksheet. 
